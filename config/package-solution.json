@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "sp-fx-first-webpart-client-side-solution",
+    "id": "282fcbb9-8918-40ce-ba9c-fd06715c9851",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.18.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "SPFxFirst-Webpart description"
+      },
+      "longDescription": {
+        "default": "SPFxFirst-Webpart description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "sp-fx-first-webpart Feature",
+        "description": "The feature that activates elements of the sp-fx-first-webpart solution.",
+        "id": "dfcba8c5-a4c4-4f05-baff-517b6dd327f0",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/sp-fx-first-webpart.sppkg"
+  }
+}

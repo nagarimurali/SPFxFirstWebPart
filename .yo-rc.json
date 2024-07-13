@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.18.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.18.2",
+    "libraryName": "sp-fx-first-webpart",
+    "libraryId": "282fcbb9-8918-40ce-ba9c-fd06715c9851",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "SPFxFirst-Webpart",
+    "solutionShortDescription": "SPFxFirst-Webpart description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
